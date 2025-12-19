@@ -57,5 +57,5 @@ A user-friendly web application is built using **Streamlit**, where users can:
 ## ▶️ How to Run the Project
 1. Clone the repository  
    ```bash
-   [git clone : https://github.com/ParameshbabuBanda/telecom-churn-prediction.git]
+  https://github.com/ParameshbabuBanda/telecom-churn-prediction.git
 
