@@ -1,4 +1,3 @@
-# telecom-churn-prediction
 # 📞 Telecom Customer Churn Prediction
 
 Customer churn is one of the biggest challenges in the telecom industry.  
